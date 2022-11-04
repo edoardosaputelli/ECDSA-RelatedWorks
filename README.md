@@ -1,5 +1,5 @@
 # ECDSA - Related Works
-Works about ECDSA algorithm presented as projects during courses held at PoliMi during my MSc. Degree
+Works about ECDSA algorithm, presented as projects during courses held at PoliMi during my MSc. Degree.
 
 ##Logica e Algebra 2 - academic year 2020/2021
 General presentation (in italian) about the ECDSA digital signature algorithm: what is it and how it works. <br />
