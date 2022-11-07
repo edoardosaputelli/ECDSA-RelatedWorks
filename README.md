@@ -6,5 +6,5 @@ General presentation (in italian) about the ECDSA digital signature algorithm: w
 [Link to the presentation](https://github.com/edoardosaputelli/ECDSA-RelatedWorks/blob/main/Algoritmo%20di%20firma%20digitale%20ECDSA.pdf)
 
 ## Cryptography and Architectures for Computer Security - A.Y. 2021/2022
-Report about the paper LadderLeak: breaking ECDSA with less than one bit of nonce leakage. In:Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security, pp. 225–242 (2020), Aranha, D.F., Novaes, F.R., Takahashi, A., Tibouchi, M., Yarom, Y. <br />
+Report about the paper LadderLeak: breaking ECDSA with less than one bit of nonce leakage. In: Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security, pp. 225–242 (2020), Aranha, D.F., Novaes, F.R., Takahashi, A., Tibouchi, M., Yarom, Y. <br />
 [Link to the report](https://github.com/edoardosaputelli/ECDSA-RelatedWorks/blob/main/LadderLeak%20-%20Report%20about%20the%20paper.pdf)
